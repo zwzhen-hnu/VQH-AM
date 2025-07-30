@@ -1,0 +1,15 @@
+param = {
+    "input_dim": 44,
+    "output_dim": 7,
+    "prot_hidden_dim": 256,
+    "prot_num_layers": 4,
+    "learning_rate": 1e-4,
+    "weight_decay": 1e-4,
+    "max_epoch": 10000,
+    "batch_size": 8,
+    "dropout_ratio": 0.0,
+    "commitment_cost": 0.25,
+    "num_embeddings": 2048,
+    "seed": 114514,
+    "num_folds": 5,
+}
